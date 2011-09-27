@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-09-28 11:45-0400\n"
+"POT-Creation-Date: 2008-06-24 00:21+0530\n"
 "PO-Revision-Date: 2011-01-17 09:11+0200\n"
 "Last-Translator: Chris <cjl@laptop.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,22 +21,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.0.3\n"
 
-#: ../src/sugar/mime.py:43
+#: ../src/sugar/mime.py:29
 msgid "Text"
 msgstr "Text"
 
-#: ../src/sugar/mime.py:52
+#: ../src/sugar/mime.py:37
 msgid "Image"
 msgstr "Image"
 
-#: ../src/sugar/mime.py:58
+#: ../src/sugar/mime.py:42
 msgid "Audio"
 msgstr "Audio"
 
-#: ../src/sugar/mime.py:66
+#: ../src/sugar/mime.py:47
 msgid "Video"
 msgstr "Video"
 
-#: ../src/sugar/mime.py:72
+#: ../src/sugar/mime.py:52
 msgid "Link"
 msgstr "Link"
