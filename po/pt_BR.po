@@ -18,20 +18,20 @@ msgstr ""
 
 #: ../src/sugar/mime.py:29
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: ../src/sugar/mime.py:37
 msgid "Image"
-msgstr ""
+msgstr "Imagem"
 
 #: ../src/sugar/mime.py:42
 msgid "Audio"
-msgstr ""
+msgstr "Áudio"
 
 #: ../src/sugar/mime.py:47
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 #: ../src/sugar/mime.py:52
 msgid "Link"
-msgstr ""
+msgstr "Links"
