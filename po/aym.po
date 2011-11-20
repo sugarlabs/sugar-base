@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-06-24 00:21+0530\n"
-"PO-Revision-Date: 2011-11-18 16:43+0200\n"
+"PO-Revision-Date: 2011-11-20 04:01+0200\n"
 "Last-Translator: EdgarQuispeChambi <quispedgar@yahoo.es>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: aym\n"
@@ -20,7 +20,7 @@ msgstr ""
 #  "Texto"
 #: ../src/sugar/mime.py:29
 msgid "Text"
-msgstr "Qillqata"
+msgstr "Qillqata "
 
 #  "Imagen"
 #: ../src/sugar/mime.py:37
