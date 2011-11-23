@@ -20,7 +20,7 @@ msgstr ""
 #  "Texto"
 #: ../src/sugar/mime.py:29
 msgid "Text"
-msgstr "Qillqata "
+msgstr "Qillqata"
 
 #  "Imagen"
 #: ../src/sugar/mime.py:37
