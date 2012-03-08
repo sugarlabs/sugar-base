@@ -7,13 +7,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-06-24 00:21+0530\n"
-"PO-Revision-Date: 2008-08-26 09:30-0400\n"
-"Last-Translator: Eduardo H. Silva <HoboPrimate@gmail.com>\n"
+"PO-Revision-Date: 2012-03-09 00:14+0200\n"
+"Last-Translator: Eduardo H. <hoboprimate@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 1.1.0rc2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
 
 #: ../src/sugar/mime.py:29
 msgid "Text"
@@ -25,7 +27,7 @@ msgstr "Imagem"
 
 #: ../src/sugar/mime.py:42
 msgid "Audio"
-msgstr "Som"
+msgstr "Áudio"
 
 #: ../src/sugar/mime.py:47
 msgid "Video"
