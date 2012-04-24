@@ -1,12 +1,12 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Irma <sankaypillo@gmail.com>, 2011.
+#  SOME DESCRIPTIVE TITLE.
+#  Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+#  This file is distributed under the same license as the PACKAGE package.
+#  Irma <sankaypillo@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-09-28 11:45-0400\n"
+"POT-Creation-Date: 2008-06-24 00:21+0530\n"
 "PO-Revision-Date: 2011-11-19 10:17-0500\n"
 "Last-Translator: Irma <sankaypillo@gmail.com>\n"
 "Language-Team: Voluntarios Quechua Sugar Camp\n"
@@ -18,26 +18,26 @@ msgstr ""
 "X-Generator: Virtaal 0.7.0\n"
 
 #  "Texto"
-#: ../src/sugar/mime.py:43
+#: ../src/sugar/mime.py:29
 msgid "Text"
 msgstr "Qillqa"
 
 #  "Imagen"
-#: ../src/sugar/mime.py:52
+#: ../src/sugar/mime.py:37
 msgid "Image"
 msgstr "Wanki"
 
 #  "Audio"
-#: ../src/sugar/mime.py:58
+#: ../src/sugar/mime.py:42
 msgid "Audio"
 msgstr "Uyarina"
 
 #  "Video"
-#: ../src/sugar/mime.py:66
+#: ../src/sugar/mime.py:47
 msgid "Video"
 msgstr "Qhawarina"
 
 #  "Enlace"
-#: ../src/sugar/mime.py:72
+#: ../src/sugar/mime.py:52
 msgid "Link"
 msgstr "Waskhana"

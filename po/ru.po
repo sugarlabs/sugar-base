@@ -17,26 +17,21 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.1.1rc4\n"
 
 #: ../src/sugar/mime.py:29
-#: ../src/sugar/mime.py:43
 msgid "Text"
 msgstr "Текст"
 
 #: ../src/sugar/mime.py:37
-#: ../src/sugar/mime.py:52
 msgid "Image"
 msgstr "Изображение"
 
 #: ../src/sugar/mime.py:42
-#: ../src/sugar/mime.py:58
 msgid "Audio"
 msgstr "Аудио"
 
 #: ../src/sugar/mime.py:47
-#: ../src/sugar/mime.py:66
 msgid "Video"
 msgstr "Видео"
 
 #: ../src/sugar/mime.py:52
-#: ../src/sugar/mime.py:72
 msgid "Link"
 msgstr "Ссылка"
