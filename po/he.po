@@ -20,26 +20,21 @@ msgstr ""
 "X-Generator: Pootle 1.1.0rc2\n"
 
 #: ../src/sugar/mime.py:43
-#, fuzzy
 msgid "Text"
 msgstr "טקסט"
 
 #: ../src/sugar/mime.py:52
-#, fuzzy
 msgid "Image"
 msgstr "תמונה"
 
 #: ../src/sugar/mime.py:58
-#, fuzzy
 msgid "Audio"
 msgstr "צליל"
 
 #: ../src/sugar/mime.py:66
-#, fuzzy
 msgid "Video"
 msgstr "וידאו"
 
 #: ../src/sugar/mime.py:72
-#, fuzzy
 msgid "Link"
 msgstr "קישור"
