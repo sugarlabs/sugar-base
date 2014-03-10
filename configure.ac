@@ -12,6 +12,7 @@ AC_PROG_LIBTOOL
 
 GNOME_COMPILE_WARNINGS(maximum)
 
+PYTHON=python2
 AM_PATH_PYTHON
 AM_CHECK_PYTHON_HEADERS(,[AC_MSG_ERROR(could not find Python headers)])
 
